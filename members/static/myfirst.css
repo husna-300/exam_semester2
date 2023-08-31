@@ -1,0 +1,42 @@
+body{
+    background-color: #f0bece;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+}
+h1{
+
+    font-size: 60px;
+    background-color: #cd92f0;
+    border: 2px;
+    border-radius: 10px;
+    padding: 10px;
+}
+h1:hover{
+    background-color: #080808;
+    color: #fff;
+}
+
+
+table, th, td {
+    border: 1px ;
+    font-size: 35px;
+    margin: 10px;
+    padding: 10px;
+  }
+tr:nth-child(even){background-color: #f2f2f2;}
+
+p{
+    font-size: 35px;
+    color: #000000;
+   
+}
+h2{
+    font-size: 50px;
+    background-color: #66eb9d;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
